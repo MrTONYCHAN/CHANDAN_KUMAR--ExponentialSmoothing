@@ -1,6 +1,10 @@
 # CHANDAN KUMAR (BATCH 3)- GOOGLE COLAB / TIME SERIES 4-5 : 
 ## (Rahul Agnihotri(T.L))
 
+Implemation Part of exponential smoothing.
+------------------------------------------
+
+
 
 # Exponential Smoothing: Single, Double and Triple Exponential Smoothing
 
