@@ -24,6 +24,26 @@
 # Trend
 --------------------------
 
+•      The trend is also one of the important factors which describe that there is certainly increasing or decreasing trend time series, which actually means the value of organization or sales over a period of time and seasonality is increasing or decreasing.
+
+# Unexpected Events
+--------------------------
+
+•      Unexpected events mean some dynamic changes occur in an organization, or in the market which cannot be captured. for example a current pandemic we are suffering from, and if you observe the Sensex or nifty chart there is a huge decrease in stock price which is an unexpected event that occurs in the surrounding.
+
+•      Methods and algorithms are using which we can capture seasonality and trend But the unexpected event occurs dynamically so capturing this becomes very difficult.
+
+Additive and Multiplicative Time series
+---------------------------------------
+
+•      In the real world, we meet with different kinds of time series data. For this, we must know the concepts of Exponential smoothing and for this first, we need to study types of time series data as additive and multiplicative. As we studied there are 3 components we need to capture as Trend(T), seasonality(S), and Irregularity(I)
+
+•      Additive time series is a combination(addition) of trend, seasonality, and Irregularity while multiplicative time series is the multiplication of these three terms.
+
+![image](https://user-images.githubusercontent.com/70132200/127134471-ac0659e8-1f15-47fc-8658-899a1533f2d2.png)
+
+
+
 # Single Exponential Smoothing (SES)
 ------------------------------------
 •      To define the basic equation of SES, lets’ consider Yt as the time series data, α as the smoothing parameter and St is the ‘smoothed’ time series data. In the basic equation of SES, the next smoothed data point starts with previous smoothed data point and the previous observed data point. It would be easy to understand with an equation as follows,
