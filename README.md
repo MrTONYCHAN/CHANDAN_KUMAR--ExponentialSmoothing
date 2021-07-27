@@ -16,6 +16,14 @@
 # SUMMARY
 -------------------------------------------------------------------------------------------------------------------------------------
 
+# Seasonality
+--------------------------
+
+•      Seasonality is a simple term that means while predicting a time series data there are some months in a particular domain where the output value is at a peak as compared to other months. for example if we see that in November and December the distribution will be very high due to holiday season and festival season. So while forecasting time series data we need to capture this seasonality.
+
+# Trend
+--------------------------
+
 # Single Exponential Smoothing (SES)
 ------------------------------------
 •      To define the basic equation of SES, lets’ consider Yt as the time series data, α as the smoothing parameter and St is the ‘smoothed’ time series data. In the basic equation of SES, the next smoothed data point starts with previous smoothed data point and the previous observed data point. It would be easy to understand with an equation as follows,
