@@ -4,7 +4,7 @@
 Implemation Part of exponential smoothing.
 ------------------------------------------
 
-
+<a href="https://drive.google.com/file/d/13Tct-E7tq2O23EO-S0wMtu_OSvwRDX8T/view?usp=sharing"> Click here! for Implemation Part  </a>
 
 # Exponential Smoothing: Single, Double and Triple Exponential Smoothing
 
